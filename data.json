@@ -1,0 +1,16 @@
+{
+    "NAME": "Abid Ali KP",    
+    "ABOUT_ME": "Computer Science graduate from NITC who loves to learn, code and grow. Interested in software development and machine learning. Seeking a challenging position in a reputable organization to expand and utilize my learning, skills and knowledge. Possess excellent communication skills and have an eye for detail. Flexible to work in any environment as required",
+    "LANGUAGES": [
+            "Python",
+            "JavaScript",
+            "Java",
+            "Kotlin",
+            "C"
+    ],
+    "PROJECTS": [
+        ["whatshot", "Countries API", "This is a REST API project. In this project, we can send country and their capital as JSON object to the api and save it our postgres database. We can do the CRUD operations using the http methods GET, POST, PUT & DELETE."],
+        ["filter_drama", "Todo WebApp", "This is a todo web app. The backend was developed with python in django framework. Sqlite database was used to save list of tasks. Html gives the structure and css gives the styling of the website."],
+        ["place", "Automatic Tweet Summarization", "This is my final year project where I trained neural network (T5, BART transformers) to automatically summarise a cluster of tweets."]
+    ]
+}
